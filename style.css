@@ -73,8 +73,9 @@
   
   .topnav .icon {
     display: none;
-     /* border: 2px solid red;  */
-    padding-top: 30px;
+     /* border: 2px solid red;   */
+    padding-top: 10px;
+    color: red;
   }
 
   main {
